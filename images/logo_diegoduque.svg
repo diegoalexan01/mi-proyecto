@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="147.2753mm"
+   height="62.290569mm"
+   viewBox="0 0 147.2753 62.290569"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_diegoduque.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-170.28588"
+     inkscape:cy="-357.55087"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false"
+     objecttolerance="19" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-9.1470613,-8.6797924)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:46.40044785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16001129"
+       x="24.860306"
+       y="60.590511"
+       id="text12"
+       transform="scale(1.0514409,0.9510758)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="24.860306"
+         y="60.590511"
+         style="stroke-width:1.16001129">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:43.80166245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:1.09504116"
+       x="31.599325"
+       y="78.309898"
+       id="text16"
+       transform="scale(1.1034169,0.90627576)"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="31.599325"
+         y="78.309898"
+         style="fill:#2ad4ff;stroke-width:1.09504116">D</tspan></text>
+    <path
+       style="fill:#000000;stroke-width:0.6885528"
+       id="path22"
+       sodipodi:type="arc"
+       sodipodi:cx="18.974443"
+       sodipodi:cy="27.878643"
+       sodipodi:rx="9.8273821"
+       sodipodi:ry="19.198851"
+       sodipodi:start="2.0699605"
+       sodipodi:end="0"
+       d="M 14.270156,44.734907 A 9.8273821,19.198851 0 0 1 9.6862002,21.606991 9.8273821,19.198851 0 0 1 20.602068,8.9449398 9.8273821,19.198851 0 0 1 28.801826,27.878643"
+       sodipodi:open="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:5.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="61.459"
+       y="42.470333"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="61.459"
+         y="42.470333"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:59.26666641px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">iego Alexander</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#916f7c;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.472084"
+       y="57.438152"
+       id="text48"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         x="69.472084"
+         y="57.438152"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#916f7c;stroke-width:0.26458332"><tspan
+           style="fill:#37abc8"
+           id="tspan56">uque Uribe</tspan></tspan></text>
+  </g>
+</svg>
